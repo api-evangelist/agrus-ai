@@ -66,7 +66,7 @@
 
 Agrus provides private LLM compliance engineering services, helping enterprises deploy AI agents within their own secure perimeter. Their offerings include compliance audits, self‑hosted LLM deployments, and industry‑specific solutions for healthcare, insurance, legal, private equity, and more. Agrus emphasizes data residency, security certifications such as HIPAA, SOC 2, ISO 27001, and compliance with regulations like the EU AI Act.
 
-**Areas:** Company · AI · Compliance · Enterprise · Private-LLM
+**Areas:** Company · Artificial Intelligence · Compliance · Enterprise · Private-LLM
 
 ## Agrus on APIs.io
 
@@ -80,17 +80,23 @@ Everything profiled for Agrus is published on APIs.io rather than in this reposi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agrus-ai-mcp.yml](https://apis.io/servers/agrus-ai/agrus-ai-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agrus Ai Domain Security](https://apis.io/security/agrus-ai/agrus-ai-domain-security/)
+- [Agrus Domain Security](https://apis.io/security/agrus-ai/agrus-ai-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agrus Ai Plans Pricing](https://apis.io/plans/agrus-ai/agrus-ai-plans-pricing/)
+- [Agrus Plans Pricing](https://apis.io/plans/agrus-ai/agrus-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -104,18 +110,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.8** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 16.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
+| Discoverability | 73.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 38.9 |
+| Access clarity | 34.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -140,8 +146,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agrus-ai/](https://apis.io/providers/agrus-ai/).
 
